@@ -1,0 +1,23 @@
+body{
+	background-color: pink;
+}
+h1{
+	text-align: center;
+}/*
+aplicando el mismo estilo a p y a code*/
+p,code{
+	/*tamaño de la fuente*/
+	font-size: 72px;
+}
+em{
+	color:#762690;
+	font-size: 64px;
+}
+.cur1{
+	/*propiedad de fondo*/
+	background: #5DA3DF;
+	font-size: 80px 
+}
+p em{
+	color: #27F306;
+}
